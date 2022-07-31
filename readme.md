@@ -1,0 +1,1 @@
+This is A responsive website and this is done to teach me git
